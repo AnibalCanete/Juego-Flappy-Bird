@@ -71,7 +71,7 @@ body {
 }
 
 .topObstacle {
-    background-image: url("../images/flappybird-pip.png");
+    background-image: url("../images/flappybird-pipe.png");
     transform: rotate(180deg);
     width: 60px;
     height: 300px;
